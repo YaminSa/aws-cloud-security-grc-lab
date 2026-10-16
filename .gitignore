@@ -1,0 +1,13 @@
+# Prowler scan output (contains account IDs)
+output/
+prowler-output-*
+*.ocsf.json
+
+# Archives
+*.zip
+*.tar.gz
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
